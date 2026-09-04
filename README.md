@@ -7,7 +7,14 @@ ${\color{#6f2222}Art}$  ${\color{#6f2222}made}$ ${\color{#6f2222}by}$ ${\color{#
 <container>
 <table>
  <br>
+ <td valign=center width= 360>
   <p> ${\color{#6f2222}Skateboard}$ ${\color{#6f2222}Fictkin!}$ </p>
-<br>
+<div align= center>
+  <h1> ${\color{#6f2222}𝗖𝗔𝗟𝗟}$ ${\color{#6f2222}𝗠𝗘:}$
+ <div align= center>
+   <p> ${\color{#6f2222}𝗦𝗞𝗜}$ ${\color{#6f2222}or}$ ${\color{#6f2222}𝗘𝗟𝗜}$</p>
+   <div align= center>
+${\color{#6f2222}𝙎𝙃𝙀/𝘼𝙉𝙔}$
+   
 </table>
 </container>
